@@ -1,0 +1,1 @@
+# reconhecimentos-glifos-IA
