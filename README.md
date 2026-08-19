@@ -1,4 +1,4 @@
-<h1 align = "center"> Grimório de Visão Computacional </h1>
+<h1 align = "center"> 📖 Grimório de Visão Computacional </h1>
 
 <p> Projeto da matéria de Inteligência Artificial, desenvolvido com Python utilizando a biblioteca OpenCV/Numpy e TensorFlow para o reconhecimento dos glifos mágicos através de classificação de imagens com o Teachable Machine </p>
 
@@ -7,10 +7,10 @@
 </p>
 
 
-<h2 align = "center"> Sobre o nosso Projeto </h2>
+<h2 align = "center"> ⚠️ Sobre o nosso Projeto ⚠️ </h2>
 <p> O sistema funciona como um grimório interativo. O programa processa a imagem de um glifo elemental (Fogo, Água, Luz, Vento ou Planta), utiliza um modelo preditivo treinado para identificar qual elemento foi apresentado, e dispara a animação mágica correspondente na tela. </p>
 
-<h2 align = "center"> Tecnologias Utilizadas </h2>
+<h2 align = "center"> 💻 Tecnologias Utilizadas </h2>
 <ul>
  <li> <strong> Python </strong> </li>
  <li> <strong> OpenCV </strong> </li>
