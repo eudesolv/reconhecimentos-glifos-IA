@@ -2,8 +2,9 @@
 
 <p> Projeto da matéria de Inteligência Artificial, desenvolvido com Python utilizando a biblioteca OpenCV/Numpy e TensorFlow para o reconhecimento dos glifos mágicos através de classificação de imagens com o Teachable Machine </p>
 
+<p align = "center">
 <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/45af37e4-08ad-457b-a58f-71cc87a91840" />
-
+</p>
 
 
 <h2> Sobre o nosso Projeto </h2>
@@ -43,5 +44,9 @@ cd reconhecimento-glifos-IA</code></pre>
             <pre><code>python main.py</code></pre>
         </li>
     </ol>
+
+
+
+ <h4>Alunos: Antônio Gabriel e Eudes Oliveira</h4>
 
 
