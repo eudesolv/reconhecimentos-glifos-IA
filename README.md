@@ -1,4 +1,4 @@
-<h1> Grimório de Visão Computacional </h1>
+<h1 align = "center"> Grimório de Visão Computacional </h1>
 
 <p> Projeto da matéria de Inteligência Artificial, desenvolvido com Python utilizando a biblioteca OpenCV/Numpy e TensorFlow para o reconhecimento dos glifos mágicos através de classificação de imagens com o Teachable Machine </p>
 
@@ -7,10 +7,10 @@
 </p>
 
 
-<h2> Sobre o nosso Projeto </h2>
+<h2 align = "center"> Sobre o nosso Projeto </h2>
 <p> O sistema funciona como um grimório interativo. O programa processa a imagem de um glifo elemental (Fogo, Água, Luz, Vento ou Planta), utiliza um modelo preditivo treinado para identificar qual elemento foi apresentado, e dispara a animação mágica correspondente na tela. </p>
 
-<h2> Tecnologias Utilizadas </h2>
+<h2 align = "center"> Tecnologias Utilizadas </h2>
 <ul>
  <li> <strong> Python </strong> </li>
  <li> <strong> OpenCV </strong> </li>
@@ -19,7 +19,7 @@
   
 </ul>
 
-<h2> Estrutura do Repositório</h2>
+<h2 align = "center"> Estrutura do Repositório</h2>
     <pre><code>reconhecimento-glifos-IA/
 ├── modelo/
 │   ├── keras_model.h5      # Cérebro treinado da IA
@@ -28,7 +28,7 @@
 ├── main.py                 # Script principal da aplicação
 └── README.md               # Documentação do projeto</code></pre>
 
-<h2> Como Executar o Projeto </h2>
+<h2 align = "center"> Como Executar o Projeto </h2>
 <ol>
         <li>
             <strong>Clone o repositório:</strong>
@@ -47,6 +47,6 @@ cd reconhecimento-glifos-IA</code></pre>
 
 
 
- <h4>Alunos: Antônio Gabriel e Eudes Oliveira</h4>
+ <h4 align = "center">Alunos: Antônio Gabriel e Eudes Oliveira</h4>
 
 
